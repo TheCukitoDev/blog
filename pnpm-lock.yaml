@@ -494,8 +494,8 @@ importers:
         version: 0.0.1
     devDependencies:
       '@clerk/types':
-        specifier: ^4.36.0
-        version: 4.36.0
+        specifier: ^4.39.0
+        version: 4.39.0
       '@repo/typescript-config':
         specifier: workspace:*
         version: link:../typescript-config
@@ -1928,6 +1928,10 @@ packages:
 
   '@clerk/types@4.36.0':
     resolution: {integrity: sha512-WrwFNJeiToDCCSxzPRbjRnI541lLSyBwtncrGCV4zVr8NhQeEVWlPdbEYzLvQbFu6qYT1ifbE5UR/krHNI79TA==}
+    engines: {node: '>=18.17.0'}
+
+  '@clerk/types@4.39.0':
+    resolution: {integrity: sha512-WWEoXmcob6X80cZZZGobN8aKjHAjAoL0cgVyLX8UeQ+JW4kl1IfUmZQgDBFOafGEm2yUoKlKAP22bWPDqmbTJw==}
     engines: {node: '>=18.17.0'}
 
   '@colors/colors@1.5.0':
@@ -11011,6 +11015,10 @@ snapshots:
       tslib: 2.4.1
 
   '@clerk/types@4.36.0':
+    dependencies:
+      csstype: 3.1.1
+
+  '@clerk/types@4.39.0':
     dependencies:
       csstype: 3.1.1
 

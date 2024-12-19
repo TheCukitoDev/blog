@@ -31,6 +31,9 @@
 		"formatter": {
 			"lineEnding": "lf",
 			"trailingCommas": "none"
+		},
+		"parser": {
+			"allowComments": true
 		}
 	},
 	"overrides": [

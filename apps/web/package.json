@@ -12,8 +12,8 @@
 		"preview": "next build && next start",
 		"start": "next start",
 		"typecheck": "tsc --noEmit",
-		"format:write": "prettier --write \"**/*.{ts,tsx,js,jsx,mdx}\" --cache",
-		"format:check": "prettier --check \"**/*.{ts,tsx,js,jsx,mdx}\" --cache"
+		"format:write": "biome format . --write",
+		"format:check": "biome format ."
 	},
 	"dependencies": {
 		"@t3-oss/env-nextjs": "^0.10.1",

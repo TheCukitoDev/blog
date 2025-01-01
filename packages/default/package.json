@@ -9,6 +9,6 @@
   "author": "",
   "devDependencies": {
     "@repo/typescript-config": "workspace:*",
-    "@types/node": "22.10.2"
+    "@types/node": "22.10.3"
   }
 }

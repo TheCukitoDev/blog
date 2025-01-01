@@ -1,0 +1,14 @@
+{
+  "name": "@repo/default",
+  "version": "0.0.0",
+  "description": "A template for creating new packages",
+  "main": "index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "devDependencies": {
+    "@repo/typescript-config": "workspace:*",
+    "@types/node": "22.10.2"
+  }
+}

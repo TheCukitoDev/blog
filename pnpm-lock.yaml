@@ -666,6 +666,15 @@ importers:
         specifier: ^5.7.2
         version: 5.7.2
 
+  packages/default:
+    devDependencies:
+      '@repo/typescript-config':
+        specifier: workspace:*
+        version: link:../typescript-config
+      '@types/node':
+        specifier: 22.10.2
+        version: 22.10.2
+
   packages/design-system:
     dependencies:
       '@hookform/resolvers':

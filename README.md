@@ -29,4 +29,3 @@ Cukito's blog is a blog that uses Next.js for the frontend and Rust for the back
 - **SSL**: Cloudflare
 - **WAF (firewall)**: Cloudflare / AWS WAF
 - **AUTH**: Backend in Rust + PostgreSQL DB.
-

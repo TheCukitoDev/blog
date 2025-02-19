@@ -13,3 +13,20 @@ Cukito's blog is a blog that uses Next.js for the frontend and Rust for the back
 -**Customizable**: The blog is built with Next.js, so it is easy to customize.
 - **SEO friendly**: The blog is built with Next.js, which is a React framework that is SEO friendly.
 - **Mobile friendly**: The blog is built with Next.js, which is a React framework that is mobile friendly.
+
+## Tech stack
+
+- **Frontend**: Next.js
+- **Backend**: Rust + Axum
+- **DB**: PostgreSQL
+- **Deployment**: Kubernetes
+- **CI/CD**: GitHub Actions
+- **Monitoring + Loging + Tracing + Visualizing**: OTEL-LGTM stack
+- **Secrets management**: AWS Secrets Manager / Azure Key Vault
+- **Storage**: Cloudflare R2
+- **CDN**: Cloudflare
+- **DNS**: Cloudflare
+- **SSL**: Cloudflare
+- **WAF (firewall)**: Cloudflare / AWS WAF
+- **AUTH**: Backend in Rust + PostgreSQL DB.
+

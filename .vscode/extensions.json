@@ -1,0 +1,3 @@
+{
+    "recommendations": ["adpyke.codesnap", "GitHub.copilot", "AykutSarac.jsoncrack-vscode", "biomejs.biome", "bradlc.vscode-tailwindcss", "DavidAnson.vscode-markdownlint", "dbaeumer.vscode-eslint", "docsmsft.docs-yaml", "fill-labs.dependi", "pflannery.vscode-versionlens", "YoavBls.pretty-ts-errors", "wix.vscode-import-cost", "vadimcn.vscode-lldb", "unifiedjs.vscode-mdx", "tamasfe.even-better-toml", "rust-lang.rust-analyzer", "redhat.vscode-yaml"],
+}

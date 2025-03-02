@@ -29,3 +29,22 @@ Cukito's blog is a blog that uses Next.js for the frontend and Rust for the back
 - **SSL**: Cloudflare
 - **WAF (firewall)**: Cloudflare / AWS WAF
 - **AUTH**: Backend in Rust + PostgreSQL DB.
+
+## Apps
+
+- **Web**
+- **API**
+- **LGTM**
+- **Docs**
+
+## Roles
+
+Ordered by jerarchy:
+
+- **Admin**: Can create, update and delete posts.
+- **Editor**: Can read posts, comment, write posts and supervise posts.
+- **Writer**: Can read posts, comment and write posts but need a verification.
+- **Moderator**: Can read posts, comment and moderate comments.
+- **Subscriptor**: Can read posts and comment withouth ads.
+- **User**: Can read posts and comment.
+- **Guest**: Can read posts.
